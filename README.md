@@ -7,7 +7,9 @@
 
 # Properties
 -  The project consists of four main pages:
-    Home : If there are already created notes on the homepage, there is an option to search by title and by tag for easy access to these notes. You can also click on the notes to go to the detail page or 
+  
+
+   Home : If there are already created notes on the homepage, there is an option to search by title and by tag for easy access to these notes. You can also click on the notes to go to the detail page or 
     create a new note.
     
    New Page: After clicking the create button on the homepage, you can add notes on the new page. The new page has a title, tags, and content section.  After filling in the title, tags and content fields, 
