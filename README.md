@@ -15,9 +15,9 @@
 
 - - Edit Page: On the edit page, you can add new tags, descriptions and change the title to the notes you have already created.
 
-  -  The project is fully responsive
+ - -  The project is fully responsive
     
-  - In the project, I made simple and eye-pleasing styling that is compatible with the project. 
+ - - In the project, I made simple and eye-pleasing styling that is compatible with the project. 
 
  - The project is optimized with modern technologies.
 
